@@ -1,0 +1,8 @@
+<article class="courses">
+    <h3 class="text">
+      Check out our most popular courses!
+    </h3>
+    <div *ngIf="courses.length !== 0">
+      <app-course *ngFor="let course of courses" [course]="course"></app-course>
+    </div>
+</article>

@@ -1,0 +1,17 @@
+.courses{
+  background: linear-gradient(to bottom,#FFFFFF 5%, #e3e8fc );
+  display: grid;
+  grid-template-columns: 343px;
+  justify-content: center;
+}
+
+.courses .text{
+  background: linear-gradient(#F02AA6, #FF6F48);
+  padding: 1.5rem;
+  color: #FFFFFF;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin-bottom: 3rem;
+}
+
