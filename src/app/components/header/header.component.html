@@ -7,6 +7,12 @@
     <h2 class="container_title">Maximize skill, minimize budget</h2>
     <p class="container_description">Our modern courses across a range of in-demand skills will give you the knowledge you need to live the life you want.</p>
     <button class="container_button">Get Started</button>
-    <img class="container_image" src="../../../assets/image-hero-mobile.png" alt="">
+    <picture class="picture">
+      <source media="(max-width: 767px)" srcset="../../../assets/image-hero-mobile.png" >
+      <source media="(min-width: 768px)" srcset="../../../assets/image-hero-tablet.png">
+      <source media="(min-width: 1440px )" srcset="../../../assets/image-hero-desktop.png">
+      <img src="../../../assets/image-hero-mobile.png" alt="" class="container_image">
+
+    </picture>
   </div>
 </header>

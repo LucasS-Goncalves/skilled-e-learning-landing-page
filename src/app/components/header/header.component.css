@@ -66,8 +66,16 @@
 }
 
 
-.info_container .container_image{
+.info_container .picture,.container_image{
   width: 327px;
   height: 301px;
   align-self: center;
+}
+
+@media(min-width: 768px){
+  .info_container .picture,.container_image{
+    width: 327px;
+    height: 301px;
+    align-self: center;
+  }
 }
