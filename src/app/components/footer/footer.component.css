@@ -1,0 +1,28 @@
+.footer{
+  background-color: #13183F;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2.3rem 1rem;
+  align-items: center;
+}
+
+.footer_title{
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: #FFFFFF;
+}
+
+.footer_button{
+  background: linear-gradient(hsl(237deg, 100%, 64%), hsl(322deg, 87%, 55%));
+  padding: .8rem 1.6rem ;
+  border: none;
+  border-radius: 30px;
+  font-size: 1rem;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+.footer_button:hover{
+  background: linear-gradient(hsl(237deg, 100%, 74%), hsl(322deg, 87%, 65%));
+}

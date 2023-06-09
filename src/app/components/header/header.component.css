@@ -18,7 +18,13 @@
   border: none;
   border-radius: 30px;
   font-size: 1rem;
+  font-weight: 700;
   color: #FFFFFF;
+  cursor: pointer;
+}
+
+.header_container .header_button:hover{
+  background-color: #666CA3;
 }
 
 .info_container{
@@ -47,10 +53,18 @@
   color: #FFFFFF;
   padding: 1rem 2rem;
   margin-left: 1rem;
+  font-size: 1rem;
+  font-weight: 700;
   border: none;
   border-radius: 40px;
   background: linear-gradient(#FF6F48, #F02AA6);
+  cursor:pointer;
 }
+
+.info_container .container_button:hover{
+  opacity: 50%;
+}
+
 
 .info_container .container_image{
   width: 327px;
