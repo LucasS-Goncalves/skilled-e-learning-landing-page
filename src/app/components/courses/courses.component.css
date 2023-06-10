@@ -15,3 +15,18 @@
   margin-bottom: 3rem;
 }
 
+@media(min-width: 768px){
+  .courses{
+    grid-template-columns: 340px 340px;
+    column-gap: 20px;
+    justify-content: center;
+  }
+
+  .courses .text{
+    padding-top: 4rem;
+    margin: 0;
+    height: 170px;
+  }
+
+}
+

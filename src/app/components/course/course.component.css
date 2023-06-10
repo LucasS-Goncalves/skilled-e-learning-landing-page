@@ -38,3 +38,10 @@
   font-size: 1.1rem;
   font-weight: 700;
 }
+
+@media(min-width: 768px){
+  .course{
+    width: 340px;
+    height: 259px;
+  }
+}
