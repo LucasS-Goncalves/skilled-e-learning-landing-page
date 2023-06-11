@@ -1,27 +1,33 @@
-# SkilledELearningLandingPage
+<h1>Skilled e-learning landing page</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+<h3>//EN//</h3>
 
-## Development server
+<p>This is my solution for the Skilled e-learning landing page challenge (I got this challenge on Frontend Mentor website). The website is responsive(it has layouts for mobile, tablet and desktop) and to build it I used Angular(Javascript framework), Typescript(Angular uses Typescript, which is a superset of Javascript), CSS and HTML.</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p> I also posted this project on my LinkedIn: https://www.linkedin.com/in/lucas-gon%C3%A7alves-3a2662252/ </p>
 
-## Code scaffolding
+<h3>//PT-BR//</h3>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<p>Esta é a minha solução para o desafio Skilled e-learning landing page (peguei esse desafio no site Frontend Mentor). O site é responsivo (tem layouts para mobile, tablet e desktop) e para construí-lo usei Angular(framework de Javascript), Typescript(Angular usa Typescript, que é um Javascript com superpoderes :D), CSS e HTML.</p>
 
-## Build
+<p>Também postei esse projeto no meu LinkedIn: https://www.linkedin.com/in/lucas-gon%C3%A7alves-3a2662252/</p>
+<br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<h4>Mobile</h4>
 
-## Running unit tests
+![mobile1](https://github.com/LucasS-Goncalves/skilled-e-learning-landing-page/assets/122225674/9609b368-5115-4602-8c82-fb3d169d3582)
+![mobile2](https://github.com/LucasS-Goncalves/skilled-e-learning-landing-page/assets/122225674/7f7759bf-4734-4ccd-8861-10bf202b382f)
+![mobile3](https://github.com/LucasS-Goncalves/skilled-e-learning-landing-page/assets/122225674/cf043f4d-f072-46d9-806b-540d581147ec)
+![mobile4](https://github.com/LucasS-Goncalves/skilled-e-learning-landing-page/assets/122225674/ddb9bd06-31b4-422c-8dbb-dc72709ccb05)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<hr>
+<h4>Tablet</h4>
 
-## Running end-to-end tests
+![tablet1](https://github.com/LucasS-Goncalves/skilled-e-learning-landing-page/assets/122225674/fab0e5f4-66a3-4982-902e-ab3e650e597e)
+![tablet2](https://github.com/LucasS-Goncalves/skilled-e-learning-landing-page/assets/122225674/5b7d038c-b1bc-4165-b598-e51536768e3f)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<hr>
+<h4>Desktop</h4>
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![desktop1](https://github.com/LucasS-Goncalves/skilled-e-learning-landing-page/assets/122225674/e6d3f59b-0b29-4d1d-b1f0-cd29d7c5b2a4)
+![desktop2](https://github.com/LucasS-Goncalves/skilled-e-learning-landing-page/assets/122225674/d2001465-4c7d-475c-84d5-b70f5fc2c8cc)
