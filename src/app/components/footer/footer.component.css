@@ -26,3 +26,15 @@
 .footer_button:hover{
   background: linear-gradient(hsl(237deg, 100%, 74%), hsl(322deg, 87%, 65%));
 }
+
+@media(min-width: 768px){
+  .footer{
+    padding: 2.3rem 2rem;
+  }
+}
+
+@media(min-width: 1270px){
+  .footer{
+    padding: 2.3rem 6rem;
+  }
+}

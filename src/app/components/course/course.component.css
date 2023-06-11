@@ -45,3 +45,10 @@
     height: 259px;
   }
 }
+
+@media(min-width: 1270px){
+  .course{
+    width: 350px;
+    height: 322px;
+  }
+}
